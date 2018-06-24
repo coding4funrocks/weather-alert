@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "OpenWeatherMapApiUrl": "http://api.openweathermap.org/data/2.5/forecast?id={city_id}&appid={api_key}&cnt={number_of_returned_days}"
+  }
+}

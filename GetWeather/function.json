@@ -5,7 +5,8 @@
       "name": "GetWeatherTimer",
       "type": "timerTrigger",
       "direction": "in",
-      "schedule": "0 0 12 * * *"
+      "schedule": "0 * * * * *",
+      "finalSchedule": "0 0 7 * * *"
     }
   ]
 }
